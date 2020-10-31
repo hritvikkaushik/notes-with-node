@@ -1,0 +1,24 @@
+{
+  "name": "notes-with-node",
+  "version": "1.0.0",
+  "description": "Repo for following along with node.js course to build a notes app",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.1.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hritvikkaushik/notes-with-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hritvikkaushik/notes-with-node/issues"
+  },
+  "homepage": "https://github.com/hritvikkaushik/notes-with-node#readme"
+}
